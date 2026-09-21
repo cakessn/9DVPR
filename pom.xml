@@ -18,7 +18,7 @@
 
 	<properties>
 		<java.version>21</java.version>
-		<sonar.organization>aula-intelligent-ci-cd-pipelines-erica</sonar.organization>
+		<sonar.organization>pipes-erica</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
